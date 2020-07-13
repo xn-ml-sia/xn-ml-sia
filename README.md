@@ -1,50 +1,17 @@
-### Hi there 👋
-
-<!--
-**xn-ml-sia/xn-ml-sia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->      
-<body>
-     <div style="font-family:monospace; white-space:pre;">   
-        _-.    _.._ _.-'`
-     .-; \ \-'`    ` _..-'
-  _.-\_\-'`__...__..'
--'   __.--'` /
- _.'`   \_ _/
-         |  \
-         ;   \    .-'```'-.
-          \"  \  /   "   " \
-           \"  \| ".--.--.  |
-            \_  ; / _   _ \ ;
-             | ( (  e _ e  ) )
-              \ '-|   T   |-'_
-               \" \   =   /"  `\
-                \  '-...-' ,  " \
-                 Y  "    "  \    \
-                 |"  .     " \  " \
-                 |      " _.-'   " )
-                 \ "/\._;'    "_.;`
-                  \_\_\.> ".''`  |
-                  /_/|_) .'    " /---..
-                   \ '--'    "     "   `\
-              .-""-.>     "       ,   "  |
-             / "      "       "    |     /
-             \   "  \  " _.`--...-'|   "/
-              '."    \.-'         / " .'
-                '-. " \       __.'  .'
-                   )   `\    (_   "(
-                  /   /\_)     `\   \
-                 (((_/           \_)))
-
-</div>
-</body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Example</title>
+    </head>
+    <body>
+        <pre>
+###### #    #   ##   #    # #####  #      ######
+#       #  #   #  #  ##  ## #    # #      #      
+#####    ##   #    # # ## # #    # #      ##### 
+#        ##   ###### #    # #####  #      #      
+#       #  #  #    # #    # #      #      #      
+###### #    # #    # #    # #      ###### ######
+        </pre>
+    </body>
+</html>
