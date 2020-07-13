@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->      
-<body>
-        <div style="font-family: monospace; white-space: pre;">
+<body style="font-family: monospace; white-space: pre;">
+        
         _-.    _.._ _.-'`
      .-; \ \-'`    ` _..-'
   _.-\_\-'`__...__..'
@@ -45,5 +45,5 @@ Here are some ideas to get you started:
                    )   `\    (_   "(
                   /   /\_)     `\   \
                  (((_/           \_)))
-</div>
+
 </body>
