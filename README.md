@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><head>
 <style>
 .ascii-art {
     font-family: monospace;
     white-space: pre;
 }
         
-</style>        
+</style></head>        
 <body>
         <div class="ascii-art">
         _-.    _.._ _.-'`
