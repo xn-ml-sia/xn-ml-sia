@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+.ascii-art {
+    font-family: monospace;
+    white-space: pre;
+}
+        
+</style>        
 <body>
+        <div class="ascii-art">
         _-.    _.._ _.-'`
      .-; \ \-'`    ` _..-'
   _.-\_\-'`__...__..'
@@ -44,4 +52,5 @@ Here are some ideas to get you started:
                    )   `\    (_   "(
                   /   /\_)     `\   \
                  (((_/           \_)))
+</div>
 </body>
