@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->      
 <body>
-        <div style="font-family: monospace; white-space: pre">
+        <div style="font-family: monospace; white-space: pre;">
         _-.    _.._ _.-'`
      .-; \ \-'`    ` _..-'
   _.-\_\-'`__...__..'
