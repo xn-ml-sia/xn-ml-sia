@@ -15,18 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->      
 
-<html>
-<head>
-<style>
-.ascii-art {
-    font-family: monospace;
-    white-space: pre;
-}
-</head>
-</style>
-        
-<body>
-     <div class=".ascii-art">   
+     <div style="font-family:monospace; white-space:pre;">   
         _-.    _.._ _.-'`
      .-; \ \-'`    ` _..-'
   _.-\_\-'`__...__..'
@@ -58,5 +47,4 @@ Here are some ideas to get you started:
                  (((_/           \_)))
 
 </div>
-</body>
-</html>
+
