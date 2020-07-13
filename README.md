@@ -4,7 +4,7 @@
     <head>
         <>
     </head>
-    <body>
+    <body style="font-family:monospace;">
         <pre>
         
  ______  ______      ______  ____    ______   
