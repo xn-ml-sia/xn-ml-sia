@@ -4,7 +4,7 @@
     <head>
         !
     </head>
-    <body style="font-family:monospace">
+    <body >
         <pre >
                              ...,?77??!~~~~!???77?<~.... 
                         ..?7`                           `7!.. 
