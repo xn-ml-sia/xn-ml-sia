@@ -4,8 +4,8 @@
     <head>
         !
     </head>
-    <body>
-        <pre style="font-family:monospace">
+    <body style="font-family:monospace">
+        <pre >
                              ...,?77??!~~~~!???77?<~.... 
                         ..?7`                           `7!.. 
                     .,=`          ..~7^`   I                  ?1. 
